@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "758392516536",
+    "project_id": "cnts-da2eb",
+    "storage_bucket": "cnts-da2eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758392516536:android:8f7fd4ad822daf177d294d",
+        "android_client_info": {
+          "package_name": "com.example.cnts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "758392516536-r3aahhr05h8sf59k5vkv12sggbp2u9vn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbMcW7MOxP3gXOCy6L3L5kcbx7BlUB34E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "758392516536-r3aahhr05h8sf59k5vkv12sggbp2u9vn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
